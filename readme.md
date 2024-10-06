@@ -21,3 +21,6 @@
 для распаковки используется [вот этот репозиторий](https://github.com/0BuRner/corona-archiver), а для декомпилирования [вот этот jar файл](https://sourceforge.net/projects/unluac/).
 ## если ничего не понял
 то тебе оно и не понадобится
+
+
+![пример](https://github.com/SanTertrust/coronasdk-de-compiler/raw/main/decompileexample.png)
